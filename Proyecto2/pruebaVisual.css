@@ -1,0 +1,37 @@
+.back{
+  background-color: #313C63;
+}
+
+body{
+  background-color: #313C63;
+}
+.container{
+  background-color: #E0E0E0;
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navbar-inverse{
+  background-color: #212842;
+  border-color: #212842;
+  color: white;
+}
+
+#left{
+  text-align:left;
+}
+.btn-default{
+  background-color: #FF6E1D;
+  border-color: #CC4A27;
+  color: white;
+}
+
+.btn-info{
+  background-color: #36B2FF;
+  border-color: #1799FF;
+}
+
+#blu{
+  color: #294091;
+}
