@@ -37,7 +37,7 @@ body{
 }
 
 .aTitle{
-  animation-duration: 3s;
+  animation-duration: 10s;
   animation-name: slidein;
 }
 
