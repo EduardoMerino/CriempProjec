@@ -1,0 +1,15 @@
+{
+  "clientes":[
+    {"usuario":"Merino", "Contraseña":"1234"},
+    {"usuario":"Vargas", "Contraseña":"1234"},
+  ]
+  ,
+  "Empresas":[
+    {"Nombre":"empresa1",
+      "criticas":[
+        {"usuario":"Merino","contenido":"No me gustó para nada, muy mal servicio","Tipo":"6"}
+      ]},
+    {"Nombre":"empresa2","criticas":[]},
+    {"Nombre":"empresa3","criticas":[]}
+  ]
+}

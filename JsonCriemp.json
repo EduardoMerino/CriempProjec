@@ -1,0 +1,26 @@
+{
+  "clientes":[
+    {"usuario":"Merino", "Contraseña":"1234"},
+    {"usuario":"Vargas", "Contraseña":"1234"},
+  ]
+  ,
+  "Empresas":[
+    {"Nombre":"empresa1",
+      "criticas":[
+        {"usuario":"Merino","contenido":"No me gustó para nada, muy mal servicio","Tipo":6}
+        {"usuario":"Vargas","contenido":"puede mejorar, tienen muy poca variedad de bebidas","Tipo":4}
+        {"usuario":"Pepe","contenido":"Muy caron no vale lo que me estan cobrando","Tipo":5}
+      ]},
+    {"Nombre":"empresa2",
+      "criticas":[
+        {"usuario":"Merino","contenido":"Me encantó","Tipo":1}
+        {"usuario":"Vargas","contenido":"muy bueno","Tipo":2}
+        {"usuario":"Pepe","contenido":"bien, pero podrían mejorar la variedad de postres","Tipo":2}
+      ]},
+    {"Nombre":"empresa3","criticas":[
+      {"usuario":"Merino","contenido":"buena comida pero mal servicio","Tipo":4}
+      {"usuario":"Vargas","contenido":"me gustó la comida, pero los meseros tardan mucho en responder","Tipo":4}
+      {"usuario":"Pepe","contenido":"si tubieran terminal para la tarjeta iría más seguido","Tipo":3}
+      ]}
+  ]
+}
